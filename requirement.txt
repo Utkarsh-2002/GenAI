@@ -1,0 +1,20 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+
+
+
+--> for pincode database thing 
+requirement.txt is 
+
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas
+numpy
+python-dotenv
